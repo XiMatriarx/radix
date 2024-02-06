@@ -57,7 +57,7 @@
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
 
 <p align="center">
-    <img src="fractal.gif">
+    <img src="https://github.com/XiMatriarx/ximatriarx/blob/matrix/fractal.gif">
 </p>
 
 <p align="center">
