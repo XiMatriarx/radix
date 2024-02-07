@@ -33,7 +33,7 @@ jobs:
         with:
           projectBaseDir: .
           args: >
-            -Dsonar.organization=XiMatriarx
+            -Dsonar.organization=ximatriarx
             -Dsonar.projectKey=radix
             -Dsonar.sources=.
             -Dsonar.verbose=true
