@@ -19,8 +19,8 @@
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=coverage" alt="Coverage">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=security_rating" alt="Security">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=vulnerabilities" alt="Vulnerabilities">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=sqale_rating" alt="Maintainability">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=reliability_rating" alt="Reliability">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=sqale_rating" alt="Maintainability">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=sqale_index" alt="Technical Debt">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=ncloc" alt="Code Lines">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=duplicated_lines_density" alt="Duplication">
