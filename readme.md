@@ -21,8 +21,8 @@
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=vulnerabilities" alt="Vulnerabilities">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=sqale_rating" alt="Maintainability">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=reliability_rating" alt="Reliability">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=ncloc" alt="Code Lines">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=sqale_index" alt="Technical Debt">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=ncloc" alt="Code Lines">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=duplicated_lines_density" alt="Duplication">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=bugs" alt="Bugs">
   <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=code_smells" alt="Code Smells">
