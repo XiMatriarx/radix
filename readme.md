@@ -15,17 +15,17 @@
 </p>
 
 <p align="center">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=alert_status" alt="SonarCloud Quality Gate">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=coverage" alt="Coverage">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=security_rating" alt="Security">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=vulnerabilities" alt="Vulnerabilities">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=sqale_rating" alt="Maintainability">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=reliability_rating" alt="Reliability">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=ncloc" alt="Code Lines">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=sqale_index" alt="Technical Debt">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=duplicated_lines_density" alt="Duplication">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=bugs" alt="Bugs">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_typescript&metric=code_smells" alt="Code Smells">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=alert_status" alt="SonarCloud Quality Gate">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=coverage" alt="Coverage">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=security_rating" alt="Security">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=vulnerabilities" alt="Vulnerabilities">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=sqale_rating" alt="Maintainability">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=reliability_rating" alt="Reliability">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=ncloc" alt="Code Lines">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=sqale_index" alt="Technical Debt">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=duplicated_lines_density" alt="Duplication">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=bugs" alt="Bugs">
+  <img src="https://sonarcloud.io/api/project_badges/measure?project=XiMatriarx_radix&metric=code_smells" alt="Code Smells">
 </p>
 
 <p align="center">
