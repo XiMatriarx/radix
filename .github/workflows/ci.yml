@@ -37,8 +37,8 @@ jobs:
             -Dsonar.projectKey=XiMatriarx_radix
             -Dsonar.sources=.
             -Dsonar.verbose=true
-            # -Dsonar.javascript.coverage.reportPaths="coverage/coverage.xml"
-            # -Dsonar.tests="test"
+          # -Dsonar.javascript.coverage.reportPaths="coverage/coverage.xml"
+          # -Dsonar.tests="test"
   test:
     runs-on: ubuntu-latest
     steps:
