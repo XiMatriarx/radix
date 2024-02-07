@@ -34,7 +34,7 @@ jobs:
           projectBaseDir: .
           args: >
             -Dsonar.organization=ximatriarx
-            -Dsonar.projectKey=radix
+            -Dsonar.projectKey=XiMatriarx_radix
             -Dsonar.sources=.
             -Dsonar.verbose=true
   test:
@@ -53,7 +53,7 @@ jobs:
           projectBaseDir: .
           args: >
             -Dsonar.organization=ximatriarx
-            -Dsonar.projectKey=radix
+            -Dsonar.projectKey=XiMatriarx_radix
             -Dsonar.sources=.
             -Dsonar.javascript.coverage.reportPaths=""
             -Dsonar.tests=""
