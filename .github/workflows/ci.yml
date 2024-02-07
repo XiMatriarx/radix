@@ -52,9 +52,9 @@ jobs:
         with:
           projectBaseDir: .
           args: >
-            -Dsonar.organization=XiMatriarx
+            -Dsonar.organization=ximatriarx
             -Dsonar.projectKey=radix
             -Dsonar.sources=.
             -Dsonar.javascript.coverage.reportPaths=""
-            -Dsonar.tests=test
+            -Dsonar.tests=""
             -Dsonar.verbose=true
