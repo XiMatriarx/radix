@@ -11,14 +11,45 @@ concurrency:
   group: release
   cancel-in-progress: true
 jobs:
-  build:
+  security:
     runs-on: ubuntu-latest
     steps:
-      - name: Build
-        run: echo 'Build Mock'
-  deploy:
-    needs: build
+      - name: Security
+        run: echo 'Security Mock'
+  dependency:
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy
-        run: echo 'Deploy Mock'
+      - name: Dependency
+        run: echo 'Dependency Mock'
+  analysis:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: SonarCloud
+        uses: sonarsource/sonarcloud-github-action@master
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          SONAR_TOKEN: ${{secrets.SONARCLOUD}}
+        with:
+          projectBaseDir: .
+          args: >
+            -Dsonar.organization=ximatriarx
+            -Dsonar.projectKey=XiMatriarx_radix
+            -Dsonar.sources=.
+            -Dsonar.verbose=true
+          # -Dsonar.javascript.coverage.reportPaths=coverage/coverage.xml
+          # -Dsonar.tests=test
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test
+        run: echo 'Test Mock'
+  release:
+    needs: [security, dependency, analysis, test]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Release
+        run: echo 'Mock Release'
