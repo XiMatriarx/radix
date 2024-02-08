@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgithub.com%2FXiMatriarx%2Fradix%2Fblob%2Fmatrix%2Freadme.md&style=flat&label=W3C&labelColor=404040&color=800080" alt="W3C">
   <img src="https://github.com/XiMatriarx/radix/actions/workflows/cron.yml/badge.svg" alt="Cron">
   <img src="https://github.com/XiMatriarx/radix/actions/workflows/cron.yml/badge.svg?event=push" alt="Cron Status">
   <img src="https://github.com/XiMatriarx/radix/actions/workflows/ci.yml/badge.svg" alt="CI">
@@ -16,6 +15,10 @@
   <img src="https://github.com/XiMatriarx/radix/actions/workflows/release.yml/badge.svg" alt="Release">
   <img src="https://github.com/XiMatriarx/radix/actions/workflows/release.yml/badge.svg?event=push" alt="Release Status">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fximatriarx.io&up_message=Up&up_color=800080&down_message=Down&down_color=008080&style=flat&label=Website&labelColor=404040" alt="Website">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgithub.com%2FXiMatriarx%2Fradix%2Fblob%2Fmatrix%2Freadme.md&style=flat&label=W3C&labelColor=404040&color=800080" alt="W3C">
 </p>
 
 <p align="center">
