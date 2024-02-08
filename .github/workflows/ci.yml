@@ -15,12 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Security
-        run: echo "Security Mock"
+        run: echo 'Security Mock'
   dependency:
     runs-on: ubuntu-latest
     steps:
       - name: Dependency
-        run: echo "Dependency Mock"
+        run: echo 'Dependency Mock'
   analysis:
     runs-on: ubuntu-latest
     steps:
@@ -40,10 +40,10 @@ jobs:
             -Dsonar.projectKey=XiMatriarx_radix
             -Dsonar.sources=.
             -Dsonar.verbose=true
-          # -Dsonar.javascript.coverage.reportPaths="coverage/coverage.xml"
-          # -Dsonar.tests="test"
+          # -Dsonar.javascript.coverage.reportPaths='coverage/coverage.xml'
+          # -Dsonar.tests='test'
   test:
     runs-on: ubuntu-latest
     steps:
       - name: Test
-        run: echo "Test Mock"
+        run: echo 'Test Mock'
