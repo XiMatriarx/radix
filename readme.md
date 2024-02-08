@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgithub.com%2FXiMatriarx%2Fradix%2Fblob%2Fmatrix%2Freadme.md&style=flat&logo=GitHub&label=W3C&labelColor=404040&color=800080" alt="W3C">
+  <img src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgithub.com%2FXiMatriarx%2Fradix%2Fblob%2Fmatrix%2Freadme.md&style=flat&label=W3C&labelColor=404040&color=800080" alt="W3C">
 </p>
 
 <p align="center">
@@ -67,8 +67,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Versioning-SemVer-404040?style=flat&logo=GitHub&label=Versioning&labelColor=404040&color=800080" alt="Versioning">
-  <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&logo=GitHub&label=License&labelColor=404040&color=800080" alt="License">
+  <img src="https://img.shields.io/badge/Versioning-SemVer-404040?style=flat&label=Versioning&labelColor=404040&color=800080" alt="Versioning">
+  <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&label=License&labelColor=404040&color=800080" alt="License">
 </p>
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
