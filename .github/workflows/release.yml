@@ -18,7 +18,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        language: ['javascript-typescript']
+        language: ['']
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -54,7 +54,7 @@ jobs:
             -Dsonar.projectKey=XiMatriarx_radix
             -Dsonar.sources=src
             -Dsonar.verbose=true
-          # -Dsonar.javascript.lcov.reportPaths=coverage/lcov.info
+          # -Dsonar.language.lcov.reportPaths=coverage/lcov.info
           # -Dsonar.tests=test
   test:
     runs-on: ubuntu-latest
