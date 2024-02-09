@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: SonarCloud
+      - name: Analysis
         uses: sonarsource/sonarcloud-github-action@master
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -38,7 +38,7 @@ jobs:
           args: >
             -Dsonar.organization=ximatriarx
             -Dsonar.projectKey=XiMatriarx_radix
-            -Dsonar.sources=.
+            -Dsonar.sources=src
             -Dsonar.verbose=true
           # -Dsonar.javascript.coverage.reportPaths=coverage/coverage.xml
           # -Dsonar.tests=test
