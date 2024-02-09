@@ -14,8 +14,18 @@ jobs:
   security:
     runs-on: ubuntu-latest
     steps:
-      - name: Security
-        run: echo 'Security Mock'
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup
+        uses: github/codeql-action/init@v3
+        with:
+          languages: ''
+      - name: Build
+        uses: github/codeql-action/autobuild@v3
+      - name: Analysis
+        uses: github/codeql-action/analyze@v3
+        with:
+          category: ''
   dependency:
     runs-on: ubuntu-latest
     steps:
