@@ -13,19 +13,23 @@ concurrency:
 jobs:
   security:
     runs-on: ubuntu-latest
+    permissions:
+      security-events: write
+    strategy:
+      fail-fast: false
+      matrix:
+        language: ['javascript-typescript']
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup
         uses: github/codeql-action/init@v3
         with:
-          languages: ''
+          languages: ${{matrix.language}}
       - name: Build
         uses: github/codeql-action/autobuild@v3
       - name: Analysis
         uses: github/codeql-action/analyze@v3
-        with:
-          category: ''
   dependency:
     runs-on: ubuntu-latest
     steps:
@@ -50,7 +54,7 @@ jobs:
             -Dsonar.projectKey=XiMatriarx_radix
             -Dsonar.sources=src
             -Dsonar.verbose=true
-          # -Dsonar.javascript.coverage.reportPaths=coverage/coverage.xml
+          # -Dsonar.javascript.lcov.reportPaths=coverage/lcov.info
           # -Dsonar.tests=test
   test:
     runs-on: ubuntu-latest
