@@ -2,6 +2,8 @@
 
 <p align="center">A GitHub repository template.</p>
 
+You can use it as a template, clone it or use `bin/init.sh` to create a new repository.  
+
 ## Status
 
 <p>
