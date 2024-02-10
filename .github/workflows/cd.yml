@@ -11,6 +11,7 @@ on:
       - matrix
     tags_ignore:
       - v*
+  workflow_dispatch:
 concurrency:
   group: cd
   cancel-in-progress: true
