@@ -1,8 +1,6 @@
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Radix 💕🦄🌈🏰</h1>
 
-<p align="center">A GitHub repository template.</p>
-
-You can use it as a template, clone it or use `bin/init.sh` to create a new repository.  
+A GitHub repository template.  You can use it as a template, clone it or use `bin/init.sh` to create a new repository.  
 
 ## Status
 
