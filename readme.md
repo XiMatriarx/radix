@@ -2,8 +2,6 @@
 
 <p align="center">A GitHub repository template.</p>
 
-You can use it as a template, clone it or use `bin/init.sh` to create a new repository.  
-
 ## Status
 
 <p>
@@ -11,7 +9,7 @@ You can use it as a template, clone it or use `bin/init.sh` to create a new repo
   <img src="https://github.com/XiMatriarx/radix/actions/workflows/ci.yml/badge.svg" alt="CI">
   <img src="https://github.com/XiMatriarx/radix/actions/workflows/cd.yml/badge.svg" alt="CD">
   <img src="https://github.com/XiMatriarx/radix/actions/workflows/release.yml/badge.svg" alt="Release">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fximatriarx.io&up_message=Up&up_color=800080&down_message=Down&down_color=008080&style=flat&logo=GitHub&label=Website&labelColor=404040" alt="Website">
+  <img src="https://img.shields.io/website?url=https://ximatriarx.io&up_message=Up&up_color=800080&down_message=Down&down_color=008080&style=flat&logo=GitHub&label=Website&labelColor=404040" alt="Website">
 </p>
 
 ## Code
@@ -37,9 +35,9 @@ You can use it as a template, clone it or use `bin/init.sh` to create a new repo
 
 <p>
   <img src="https://img.shields.io/github/issues-raw/XiMatriarx/radix?style=flat&logo=GitHub&label=Issues&labelColor=404040&color=800080" alt="Issues">
-  <img src="https://img.shields.io/github/issues-closed-raw/XiMatriarx/radix?style=flat&logo=GitHub&label=Issues%20Closed&labelColor=404040&color=800080" alt="Issues Closed">
-  <img src="https://img.shields.io/github/issues-pr-raw/XiMatriarx/radix?style=flat&logo=GitHub&label=Pull%20Requests&labelColor=404040&color=800080" alt="Pull Requests">
-  <img src="https://img.shields.io/github/issues-pr-closed-raw/XiMatriarx/radix?label=Pull%20Requests%20Closed&labelColor=404040&color=800080" alt="Pull Requests Closed">
+  <img src="https://img.shields.io/github/issues-closed-raw/XiMatriarx/radix?style=flat&logo=GitHub&label=Issues Closed&labelColor=404040&color=800080" alt="Issues Closed">
+  <img src="https://img.shields.io/github/issues-pr-raw/XiMatriarx/radix?style=flat&logo=GitHub&label=Pull Requests&labelColor=404040&color=800080" alt="Pull Requests">
+  <img src="https://img.shields.io/github/issues-pr-closed-raw/XiMatriarx/radix?label=Pull Requests Closed&labelColor=404040&color=800080" alt="Pull Requests Closed">
   <img src="https://img.shields.io/github/discussions/XiMatriarx/radix?style=flat&logo=GitHub&label=Discussions&labelColor=404040&color=800080" alt="Discussions">
 </p>
 
@@ -52,7 +50,7 @@ You can use it as a template, clone it or use `bin/init.sh` to create a new repo
 
 <p>
   <img src="https://img.shields.io/github/v/release/XiMatriarx/radix?sort=semver&style=flat&logo=GitHub&label=Release&labelColor=404040&color=800080" alt="Release">
-  <img src="https://img.shields.io/github/release-date/XiMatriarx/radix?style=flat&logo=GitHub&label=Release%20Date&labelColor=404040&color=800080" alt="Release Date">
+  <img src="https://img.shields.io/github/release-date/XiMatriarx/radix?style=flat&logo=GitHub&label=Release Date&labelColor=404040&color=800080" alt="Release Date">
   <img src="https://img.shields.io/github/v/tag/XiMatriarx/radix?sort=semver&style=flat&logo=GitHub&label=Tag&labelColor=404040&color=800080" alt="Tag">
 </p>
 
@@ -65,7 +63,7 @@ You can use it as a template, clone it or use `bin/init.sh` to create a new repo
 
 <p>
   <img src="https://img.shields.io/github/languages/count/XiMatriarx/radix?style=flat&logo=GitHub&label=Languages&labelColor=404040&color=800080" alt="Languages">
-  <img src="https://img.shields.io/github/languages/top/XiMatriarx/radix?style=flat&logo=GitHub&label=Top%20Language&labelColor=404040&color=800080" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/top/XiMatriarx/radix?style=flat&logo=GitHub&label=Top Language&labelColor=404040&color=800080" alt="Top Language">
 </p>
 
 <p>
@@ -73,42 +71,50 @@ You can use it as a template, clone it or use `bin/init.sh` to create a new repo
   <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/radix?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Year)">
   <img src="https://img.shields.io/github/commit-activity/m/XiMatriarx/radix?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Month)">
   <img src="https://img.shields.io/github/commit-activity/w/XiMatriarx/radix?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Week)">
-  <img src="https://img.shields.io/github/commits-since/XiMatriarx/radix/latest?sort=semver&style=flat&logo=GitHub&label=Release%20Commits&labelColor=404040&color=800080" alt="Release Commits">
+  <img src="https://img.shields.io/github/commits-since/XiMatriarx/radix/latest?sort=semver&style=flat&logo=GitHub&label=Release Commits&labelColor=404040&color=800080" alt="Release Commits">
 </p>
 
 <p>
   <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/radix?type=dir&style=flat&logo=GitHub&label=Directories&labelColor=404040&color=800080" alt="Directories">
   <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/radix?type=file&style=flat&logo=GitHub&label=Files&labelColor=404040&color=800080" alt="Files">
   <img src="https://img.shields.io/github/repo-size/XiMatriarx/radix?style=flat&logo=GitHub&label=Size&labelColor=404040&color=800080" alt="Size">
-  <img src="https://img.shields.io/github/languages/code-size/XiMatriarx/radix?style=flat&logo=GitHub&label=Code%20Size&labelColor=404040&color=800080" alt="Code Size">
+  <img src="https://img.shields.io/github/languages/code-size/XiMatriarx/radix?style=flat&logo=GitHub&label=Code Size&labelColor=404040&color=800080" alt="Code Size">
   <img src="https://img.shields.io/github/downloads/XiMatriarx/radix/total?style=flat&logo=GitHub&label=Downloads&labelColor=404040&color=800080" alt="Downloads">
 </p>
+
+## Setup
+
+~ Use it as a GitHub repository template.  
+~ Clone it using `git clone https://github.com/XiMatriarx/radix.git`.  
+~ Use `bin/init.sh` to create repositories.  
+
+## Usage
+
+Clone it or run the shell script then delete whatever you don't need.  
+
+## Documentation
+
+[Code of Conduct](https://github.com/XiMatriarx/.github/blob/matrix/code_of_conduct.md)
+[Contributing](https://github.com/XiMatriarx/.github/blob/matrix/contributing.md)
+[Security](https://github.com/XiMatriarx/.github/blob/matrix/security.md)
+[Support](https://github.com/XiMatriarx/.github/blob/matrix/support.md)
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
 
 <p align="center">
-  <img src="https://github.com/XiMatriarx/ximatriarx/blob/matrix/fractal.gif">
+  <img src="fractal.gif">
 </p>
 
 <p align="center">
-  <a href="mailto:xi@ximatriarx.io"><img src="https://img.shields.io/badge/xi%40ximatriarx.io-404040?style=flat" alt="Email"></a>
-  <a href="https://t.me/ximatriarx"><img src="https://img.shields.io/badge/-Telegram-404040?style=flat&logo=Telegram" alt="Telegram"></a>
+  <a href="mailto:xi@ximatriarx.io"><img src="https://img.shields.io/badge/xi@ximatriarx.io-404040?style=flat" alt="Email"></a>
+  <a href="https://ximatriarx.io"><img src="https://img.shields.io/badge/https://ximatriarx.io-404040?style=flat" alt="Website"></a>
 </p>
 
 <p align="center">
   <a href="https://patreon.com/XiMatriarx" target="_blank"><img src="https://img.shields.io/badge/-Patreon-404040?style=flat&logo=Patreon" alt="Patreon"></a>
-</p>
-
-<p align="center">
   <a href="https://discord.gg/XiMatriarx" target="_blank"><img src="https://img.shields.io/discord/XiMatriarx?style=flat&logo=Discord&label=Discord&labelColor=404040&color=800080" alt="Discord"></a>
   <a href="https://www.reddit.com/r/XiMatriarx" target="_blank"><img src="https://img.shields.io/reddit/subreddit-subscribers/XiMatriarx?style=flat&logo=Reddit&label=Reddit&labelColor=404040&color=800080" alt="Reddit"></a>
-  <a href="https://linkedin.com/in/XiMatriarx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-404040?style=flat&logo=LinkedIn" alt="LinkedIn"></a>
   <a href="https://twitter.com/XiMatriarx" target="_blank"><img src="https://img.shields.io/badge/-X-404040?style=flat&logo=X" alt="X"></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/XiMatriarx?style=flat&logo=GitHub&label=Stars&labelColor=404040&color=800080" alt="Stars">
-  <img src="https://img.shields.io/github/followers/XiMatriarx?style=flat&logo=GitHub&label=Followers&labelColor=404040&color=800080" alt="Followers">
 </p>
 
 <p align="center">
