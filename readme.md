@@ -84,9 +84,9 @@
 
 ## Setup
 
-~ Use it as a GitHub repository template.  
-~ Clone it using `git clone https://github.com/XiMatriarx/radix.git`.  
-~ Use `bin/init.sh` to create repositories.  
+- Use it as a GitHub repository template.  
+- Clone it using `git clone https://github.com/XiMatriarx/radix.git`.  
+- Use `bin/init.sh` to create repositories.  
 
 ## Usage
 
@@ -94,10 +94,10 @@ Clone it or run the shell script then delete whatever you don't need.
 
 ## Documentation
 
-~ [Code of Conduct](https://github.com/XiMatriarx/.github/blob/matrix/code_of_conduct.md)<br/>
-~ [Contributing](https://github.com/XiMatriarx/.github/blob/matrix/contributing.md)<br/>
-~ [Security](https://github.com/XiMatriarx/.github/blob/matrix/security.md)<br/>
-~ [Support](https://github.com/XiMatriarx/.github/blob/matrix/support.md)
+- [Code of Conduct](https://github.com/XiMatriarx/.github/blob/matrix/code_of_conduct.md)
+- [Contributing](https://github.com/XiMatriarx/.github/blob/matrix/contributing.md)
+- [Security](https://github.com/XiMatriarx/.github/blob/matrix/security.md)
+- [Support](https://github.com/XiMatriarx/.github/blob/matrix/support.md)
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
 
