@@ -68,9 +68,9 @@
 
 <p>
   <img src="https://img.shields.io/github/commit-activity/t/XiMatriarx/radix?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Total)">
-  <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/radix?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Year)">
-  <img src="https://img.shields.io/github/commit-activity/m/XiMatriarx/radix?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Month)">
   <img src="https://img.shields.io/github/commit-activity/w/XiMatriarx/radix?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Week)">
+  <img src="https://img.shields.io/github/commit-activity/m/XiMatriarx/radix?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Month)">
+  <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/radix?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Year)">
   <img src="https://img.shields.io/github/commits-since/XiMatriarx/radix/latest?sort=semver&style=flat&logo=GitHub&label=Release Commits&labelColor=404040&color=800080" alt="Release Commits">
 </p>
 
