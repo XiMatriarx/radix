@@ -94,10 +94,10 @@ Clone it or run the shell script then delete whatever you don't need.
 
 ## Documentation
 
-- [Code of Conduct](https://github.com/XiMatriarx/.github/blob/matrix/code_of_conduct.md)
-- [Contributing](https://github.com/XiMatriarx/.github/blob/matrix/contributing.md)
-- [Security](https://github.com/XiMatriarx/.github/blob/matrix/security.md)
-- [Support](https://github.com/XiMatriarx/.github/blob/matrix/support.md)
+- [Code of Conduct](https://github.com/XiMatriarx/radix/blob/matrix/docs/code_of_conduct.md)
+- [Contributing](https://github.com/XiMatriarx/radix/blob/matrix/docs/contributing.md)
+- [Security](https://github.com/XiMatriarx/radix/blob/matrix/docs/security.md)
+- [Support](https://github.com/XiMatriarx/radix/blob/matrix/docs/support.md)
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
 
