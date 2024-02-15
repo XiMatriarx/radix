@@ -54,7 +54,7 @@ jobs:
             -Dsonar.projectKey=XiMatriarx_radix
             -Dsonar.sources=src
             -Dsonar.verbose=true
-          # -Dsonar.language.lcov.reportPaths=coverage/lcov.info
+          # -Dsonar.language.lcov.reportPaths=cache/coverage/lcov.info
           # -Dsonar.tests=test
   test:
     runs-on: ubuntu-latest
