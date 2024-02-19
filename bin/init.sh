@@ -8,7 +8,7 @@ then
 	exit
 fi
 
-git clone https://github.com/XiMatriarx/radix.git --depth 1 --branch 'v0.0.1'
+git clone https://github.com/XiMatriarx/radix.git --depth 1 --branch 'v1.0.0'
 mv radix $project
 cd $project
 rm -Rf .git
